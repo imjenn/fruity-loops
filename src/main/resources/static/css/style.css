@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	color: pink;
+}
+
+div {
+	margin-left: 30%;
+}
+
+table {
+	border: 15px solid pink;
+	width: 60%;
+	border-collapse: collapse;
+}
+
+thead {
+	text-align: left;
+}
+
+th, tr {
+	border-bottom: 1px solid pink;
+}
+
+th, tr, td {
+	padding: 10px 5px;
+}
